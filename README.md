@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de JavaScript e TypeScript
 
-[![Estatísticas do GitHub do PedroAragaoDev](meu-readme-stats.vercel.app)](github.com)
+[![Estatísticas do GitHub do PedroAragaoDev](meu-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
