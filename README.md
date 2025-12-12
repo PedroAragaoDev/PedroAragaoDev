@@ -1,8 +1,8 @@
 # Oii ! Eu sou o Pedro Aragão
 
-- 🌱 Estudante de JavaScript e TypeScript
-
-[![Estatísticas do GitHub do PedroAragaoDev](meu-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Sou um estudante de JavaScript e TypeScript
+- 💻 Sou uma pessoa que está sempre estudando
+- 👨‍💻 E sou uma pessoa que adora conhecer novas tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
